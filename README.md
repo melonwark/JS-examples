@@ -10,3 +10,12 @@ Any folded content here. It requires an empty line just above it.
 
 
 <!-- This is commented out. -->
+
+```{toggle}
+txt
+```
+
+```stacktrace
+Header text
+Hidden text
+```
